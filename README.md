@@ -1,25 +1,25 @@
- 🚗 Autonomous Vehicle Prototype
+Autonomous Vehicle Prototype
 
-An **autonomous robotic vehicle** developed using Arduino UNO and ESP32-CAM, capable of obstacle detection, real-time video streaming, and GPS-based location tracking.  
-This project demonstrates practical implementation of embedded systems, sensor integration, and autonomous navigation**.
+An autonomous robotic vehicle developed using Arduino UNO and ESP32-CAM, capable of obstacle detection, real-time video streaming, and GPS-based location tracking.  
+This project demonstrates practical implementation of embedded systems, sensor integration and autonomous navigation.
 
- 📌 Project Overview
+ Project Overview
 
 The Autonomous Vehicle Prototype is designed to navigate autonomously by detecting obstacles using ultrasonic and IR sensors.  
 It streams live video through ESP32-CAM and provides real-time location tracking using a GPS module, making it suitable for surveillance and monitoring applications.
 
 
- ✨ Key Features
+ Key Features
 
-- 🚧 Obstacle detection using Ultrasonic and IR sensors  
-- 🤖 Autonomous navigation and motor control  
-- 📷 Live video streaming using ESP32-CAM over Wi-Fi  
-- 📍 GPS-based real-time location tracking  
-- 🔁 Modular and scalable embedded system design  
+-  Obstacle detection using Ultrasonic and IR sensors  
+-  Autonomous navigation and motor control  
+-  Live video streaming using ESP32-CAM over Wi-Fi  
+-  GPS-based real-time location tracking  
+-  Modular and scalable embedded system design  
 
 
 
- 🧰 Hardware Components
+  Hardware Components
 
 - Arduino UNO  
 - ESP32-CAM  
@@ -31,7 +31,7 @@ It streams live video through ESP32-CAM and provides real-time location tracking
 - Power supply
    
 
-💻 Software & Tools Used
+ Software & Tools Used
 
 - Arduino IDE  
 - Embedded C / C++  
@@ -40,7 +40,7 @@ It streams live video through ESP32-CAM and provides real-time location tracking
 - Serial Communication & Sensor Interfacing
 
   
-📂 Repository Structure
+ Repository Structure
 
 Arduino_Code/                → Arduino control logic  
 ESP32_CAM/                   → ESP32-CAM video streaming code  
@@ -50,7 +50,7 @@ Images/                      → Prototype images
 Report/                      → Project documentation 
 
 
-🔄 Working Methodology
+ Working Methodology
 
 - Sensors continuously monitor the surroundings
 
@@ -63,7 +63,7 @@ Report/                      → Project documentation
 - GPS module provides real-time location information
   
 
-🎯 Skills Demonstrated
+ Skills Demonstrated
 
 - Embedded Systems Design
 
