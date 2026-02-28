@@ -1,6 +1,6 @@
 Autonomous Vehicle Prototype
 
-An autonomous robotic vehicle developed using Arduino UNO and ESP32-CAM, capable of obstacle detection, real-time video streaming, and GPS-based location tracking.  
+An autonomous robotic vehicle developed using Arduino UNO and ESP32-CAM, capable of obstacle detection, real-time video streaming and GPS-based location tracking.  
 This project demonstrates practical implementation of embedded systems, sensor integration and autonomous navigation.
 
  Project Overview
